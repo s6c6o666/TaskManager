@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "4f0a33cd-b507-4b32-97cc-3b286e8ad302",
+      "title": "Тест",
+      "folder": "Дом",
+      "is_shopping_list": false,
+      "move_to_tomorrow": false,
+      "use_time_blocking": false,
+      "use_pomodoro": false,
+      "use_timer": false,
+      "use_alarm": false,
+      "completed": false,
+      "planned_date": "20261111",
+      "notification_type": "both",
+      "time_block_start": "",
+      "time_block_duration": 0,
+      "time_block_days": [],
+      "time_block_dates": [],
+      "shopping_items": [],
+      "comment": "",
+      "alarm_time": "",
+      "last_alarm_triggered": "",
+      "last_block_triggered": ""
+    }
+  ],
+  "folders": [
+    "Дом",
+    "Работа",
+    "Личное"
+  ]
+}

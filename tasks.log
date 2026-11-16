@@ -1,0 +1,151 @@
+2026-11-11 20:20:30,452 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-11 20:20:30,454 [INFO] taskmanager: window.on_event installed
+2026-11-11 20:21:56,929 [INFO] taskmanager: Cleanup started
+2026-11-11 20:21:56,929 [INFO] taskmanager: Timers to save: []
+2026-11-11 20:21:56,933 [INFO] taskmanager: Saved 0 timers
+2026-11-11 20:21:56,934 [INFO] taskmanager: Cleanup done; force exit scheduled in 3s
+2026-11-11 20:38:26,537 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-11 20:38:26,554 [INFO] taskmanager: page.window.on_event installed
+2026-11-11 20:38:26,555 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-11 20:38:26,555 [INFO] taskmanager: page.on_disconnect installed
+2026-11-11 20:38:26,555 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-11 20:38:29,005 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-11 20:38:53,592 [INFO] taskmanager: Cleanup started
+2026-11-11 20:38:53,592 [INFO] taskmanager: Timers to save: []
+2026-11-11 20:38:53,596 [INFO] taskmanager: Saved 0 timers
+2026-11-11 20:38:53,604 [INFO] taskmanager: Cleanup done; force exit scheduled in 3s
+2026-11-11 20:44:08,587 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-11 20:44:08,589 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-11 20:44:08,606 [INFO] taskmanager: page.window.on_event installed
+2026-11-11 20:44:08,606 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-11 20:44:08,606 [INFO] taskmanager: page.on_disconnect installed
+2026-11-11 20:44:08,606 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-11 20:44:12,554 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-11 20:44:43,410 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-11 20:44:43,410 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-11 20:44:43,410 [INFO] taskmanager: Cleanup started
+2026-11-11 20:44:43,410 [INFO] taskmanager: Timers to save: []
+2026-11-11 20:44:43,413 [INFO] taskmanager: Saved 0 timers
+2026-11-11 20:44:43,413 [INFO] taskmanager: Cleanup done; force exit scheduled in 3s
+2026-11-11 20:44:43,422 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-11 20:44:46,415 [INFO] taskmanager: Force exit (os._exit)
+2026-11-11 20:54:27,574 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-11 20:54:27,583 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-11 20:54:27,585 [INFO] taskmanager: page.window.on_event installed
+2026-11-11 20:54:27,586 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-11 20:54:27,586 [INFO] taskmanager: page.on_disconnect installed
+2026-11-11 20:54:27,586 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-11 20:54:30,360 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-11 20:55:15,086 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-11 20:55:15,086 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-11 20:55:15,087 [INFO] taskmanager: Cleanup started
+2026-11-11 20:55:15,087 [INFO] taskmanager: Timers to save: []
+2026-11-11 20:55:15,089 [INFO] taskmanager: Saved 0 timers
+2026-11-11 20:55:15,089 [INFO] taskmanager: Cleanup done
+2026-11-11 20:55:15,101 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-11 20:55:15,603 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)
+2026-11-16 13:41:22,267 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-16 13:41:22,269 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-16 13:41:22,325 [INFO] taskmanager: page.window.on_event installed
+2026-11-16 13:41:22,325 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-16 13:41:22,326 [INFO] taskmanager: page.on_disconnect installed
+2026-11-16 13:41:22,326 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-16 13:41:22,336 [INFO] taskmanager: Горячие клавиши установлены: Ctrl+N, Esc, Ctrl+S
+2026-11-16 13:41:25,549 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-16 13:41:32,288 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-16 13:41:32,288 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-16 13:41:32,288 [INFO] taskmanager: Cleanup started
+2026-11-16 13:41:32,288 [INFO] taskmanager: Timers to save: []
+2026-11-16 13:41:32,291 [INFO] taskmanager: Saved 0 timers
+2026-11-16 13:41:32,292 [INFO] taskmanager: Cleanup done
+2026-11-16 13:41:32,294 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-16 13:41:32,798 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)
+2026-11-16 13:56:36,629 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-16 13:56:36,642 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-16 13:56:36,647 [INFO] taskmanager: page.window.on_event installed
+2026-11-16 13:56:36,648 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-16 13:56:36,648 [INFO] taskmanager: page.on_disconnect installed
+2026-11-16 13:56:36,648 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-16 13:56:36,666 [INFO] taskmanager: Горячие клавиши установлены: Ctrl+N, Esc, Ctrl+S
+2026-11-16 13:56:40,337 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-16 13:57:40,292 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.BLUR: 'blur'> data='blur'
+2026-11-16 13:57:58,877 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.FOCUS: 'focus'> data='focus'
+2026-11-16 14:00:03,917 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-16 14:00:03,917 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-16 14:00:03,918 [INFO] taskmanager: Cleanup started
+2026-11-16 14:00:03,918 [INFO] taskmanager: Timers to save: []
+2026-11-16 14:00:03,920 [INFO] taskmanager: Saved 0 timers
+2026-11-16 14:00:03,921 [INFO] taskmanager: Cleanup done
+2026-11-16 14:00:03,942 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-16 14:00:04,443 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)
+2026-11-16 14:42:32,835 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-16 14:42:32,845 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-16 14:42:32,891 [INFO] taskmanager: page.window.on_event installed
+2026-11-16 14:42:32,891 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-16 14:42:32,891 [INFO] taskmanager: page.on_disconnect installed
+2026-11-16 14:42:32,891 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-16 14:42:33,020 [INFO] taskmanager: Горячие клавиши установлены: Ctrl+N, Esc, Ctrl+S
+2026-11-16 14:42:36,003 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-16 14:42:57,557 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-16 14:42:57,557 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-16 14:42:57,557 [INFO] taskmanager: Cleanup started
+2026-11-16 14:42:57,557 [INFO] taskmanager: Timers to save: []
+2026-11-16 14:42:57,566 [INFO] taskmanager: Saved 0 timers
+2026-11-16 14:42:57,566 [INFO] taskmanager: Cleanup done
+2026-11-16 14:42:57,573 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-16 14:42:58,078 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)
+2026-11-16 14:53:22,734 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-16 14:53:22,738 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-16 14:53:22,747 [INFO] taskmanager: page.window.on_event installed
+2026-11-16 14:53:22,747 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-16 14:53:22,747 [INFO] taskmanager: page.on_disconnect installed
+2026-11-16 14:53:22,748 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-16 14:53:22,756 [INFO] taskmanager: Горячие клавиши установлены: Ctrl+N, Esc, Ctrl+S
+2026-11-16 14:53:26,585 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-16 14:53:32,074 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-16 14:53:32,074 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-16 14:53:32,075 [INFO] taskmanager: Cleanup started
+2026-11-16 14:53:32,075 [INFO] taskmanager: Timers to save: []
+2026-11-16 14:53:32,077 [INFO] taskmanager: Saved 0 timers
+2026-11-16 14:53:32,078 [INFO] taskmanager: Cleanup done
+2026-11-16 14:53:32,080 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-16 14:53:32,581 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)
+2026-11-16 15:42:01,069 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-16 15:42:01,069 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-16 15:42:01,079 [INFO] taskmanager: page.window.on_event installed
+2026-11-16 15:42:01,079 [INFO] taskmanager: page.window.on_close installed (fallback)
+2026-11-16 15:42:01,079 [INFO] taskmanager: page.on_disconnect installed
+2026-11-16 15:42:01,079 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-16 15:42:01,090 [INFO] taskmanager: Горячие клавиши установлены: Ctrl+N, Esc, Ctrl+S
+2026-11-16 15:42:05,630 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-16 15:45:51,096 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-16 15:45:51,096 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-16 15:45:51,096 [INFO] taskmanager: Cleanup started
+2026-11-16 15:45:51,097 [INFO] taskmanager: Timers to save: []
+2026-11-16 15:45:51,099 [INFO] taskmanager: Saved 0 timers
+2026-11-16 15:45:51,099 [INFO] taskmanager: Cleanup done
+2026-11-16 15:45:51,148 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-16 15:45:51,650 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)
+2026-11-16 20:59:59,388 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-16 20:59:59,397 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-16 20:59:59,409 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-16 20:59:59,425 [INFO] taskmanager: Горячие клавиши установлены: Ctrl+N, Esc, Ctrl+S
+2026-11-16 21:00:02,314 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.MOVED: 'moved'> data='moved'
+2026-11-16 21:03:05,512 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-16 21:03:05,512 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-16 21:03:05,512 [INFO] taskmanager: Cleanup started
+2026-11-16 21:03:05,516 [INFO] taskmanager: Saved 0 timers
+2026-11-16 21:03:05,516 [INFO] taskmanager: Cleanup done
+2026-11-16 21:03:05,550 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-16 21:03:06,052 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)
+2026-11-16 21:10:01,368 [INFO] taskmanager: page.window.prevent_close = True
+2026-11-16 21:10:01,375 [INFO] taskmanager: asyncio exception handler installed (deferred)
+2026-11-16 21:10:01,376 [INFO] taskmanager: Window close handlers: window.on_event, window.on_close, on_disconnect
+2026-11-16 21:10:01,392 [INFO] taskmanager: Горячие клавиши установлены: Ctrl+N, Esc, Ctrl+S
+2026-11-16 21:10:19,824 [INFO] taskmanager: [WINDOW] event received: type=<WindowEventType.CLOSE: 'close'> data='close'
+2026-11-16 21:10:19,824 [INFO] taskmanager: [CLOSE] triggered by window.on_event
+2026-11-16 21:10:19,824 [INFO] taskmanager: Cleanup started
+2026-11-16 21:10:19,826 [INFO] taskmanager: Saved 0 timers
+2026-11-16 21:10:19,827 [INFO] taskmanager: Cleanup done
+2026-11-16 21:10:19,834 [INFO] taskmanager: [CLOSE] window.destroy() called
+2026-11-16 21:10:20,336 [INFO] taskmanager: [CLOSE] watchdog: force exit (os._exit)

@@ -1,0 +1,16 @@
+{
+  "pomodoro_work": 30,
+  "pomodoro_break": 5,
+  "pomodoro_long_break": 15,
+  "pomodoro_cycles": 4,
+  "long_break_enabled": true,
+  "auto_continue": true,
+  "regular_timer_minutes": 5,
+  "theme_mode": "dark",
+  "volume": 0.75,
+  "dark_theme_schedule_enabled": false,
+  "dark_theme_schedule_start": "20:00",
+  "dark_theme_schedule_end": "07:00",
+  "minimize_to_tray": false,
+  "show_in_title": true
+}

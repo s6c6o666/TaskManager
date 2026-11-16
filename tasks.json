@@ -1,0 +1,20 @@
+{
+  "tasks": [],
+  "folders": [
+    {
+      "name": "Дом",
+      "color": "blue",
+      "icon": "folder"
+    },
+    {
+      "name": "Работа",
+      "color": "blue",
+      "icon": "folder"
+    },
+    {
+      "name": "Личное",
+      "color": "blue",
+      "icon": "folder"
+    }
+  ]
+}
